@@ -10,7 +10,7 @@ React
 ![](/Gift_Projects/Project_02_Movie_Cards_Library_Stateful.gif)
 
 # Project 03 - Front-End - Movie Cards Library CRUD
-HTML, CSS Basic & JS (DOM)
+React
 
 ![](/Gift_Projects/Project_03_Movie_Cards_Library_CRUD.gif)
 
