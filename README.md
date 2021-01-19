@@ -36,10 +36,10 @@ Develop a simplified version, without persistence in the database, of an online 
 - And finally, finalize the (simulated) purchase of the selected items.
 
 Group: 
-<a src="https://github.com/anahigo">Ana Higo</a>
-<a src="https://github.com/AlexanderFeitosa">Alexander Feitosa</a>
-<a src="https://github.com/isakoga">Isadora Koga</a>
-<a src="https://github.com/TGus17">Gustavo Oliva</a>
+[Ana Higo](https://github.com/anahigo)
+[Alexander Feitosa](https://github.com/AlexanderFeitosa)
+[Isadora Koga](https://github.com/isakoga)
+[Gustavo Oliva](https://github.com/TGus17)
 
 **React e CSS**
 
@@ -77,10 +77,10 @@ Develop a game of questions and answers based on the game Trivia using React and
 - Configure some options for the game on a configuration screen accessible from the application header.
 
 Group: 
-<a src="https://github.com/anahigo">Ana Higo</a>
-<a src="https://github.com/Clayton1805">Clayton Miguel</a>
-<a src="https://github.com/mottak">Kissyla Motta</a>
-<a src="https://github.com/rodrigodesantanaribeiro">Rodrigo Santana</a>
+[Ana Higo](https://github.com/anahigo)
+[Clayton Miguel](https://github.com/Clayton1805)
+[Kissyla Motta](https://github.com/mottak)
+[Rodrigo Santana](https://github.com/rodrigodesantanaribeiro)
 
 **Redux e CSS**
 
@@ -101,9 +101,9 @@ The App should:
 - The layout is focused on mobile devices, so all prototypes will be developed on smaller screens.
 
 Group: 
-<a src="https://github.com/anahigo">Ana Higo</a>
-<a src="https://github.com/cleytonoliveira">Cleyton de Oliveira</a>
-<a src="https://github.com/Marxneves">Marx Neves</a>
+[Ana Higo](https://github.com/anahigo)
+[Cleyton de Oliveira](https://github.com/cleytonoliveira)
+[Marx Neves](https://github.com/Marxneves)
 
 **Context API, Hooks e CSS**
 
